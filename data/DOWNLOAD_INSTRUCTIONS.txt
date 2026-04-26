@@ -1,0 +1,25 @@
+Download the following files from Harvard Dataverse and place them in this directory:
+  https://doi.org/10.7910/DVN/IXA7BM
+
+Required files:
+  kg.csv (or kg_raw.csv)              — PrimeKG full edge list
+  train_val_test_disease_idx.json     — standard TxGNN disease splits
+  drug_meta.csv                       — optional DrugBank drug class annotations
+
+LINCS L1000 drug perturbation profiles:
+  Download from https://clue.io/data/CMap2020
+  Place per-drug profile CSVs in ./lincs_profiles/<DrugBankID>.csv
+  Format: columns [gene_id, log2FC]
+
+NE tumor transcriptomic signature:
+  Download from GEO: GSE71657 (NE treatment in breast cancer cell lines)
+  or GSE84071 (adrenergic stimulation in PDAC)
+  Save processed signature as ne_tumor_signature.csv
+  Format: columns [gene_id, log2FC]
+
+Setup:
+  conda create -n txgnn_env python=3.8
+  conda activate txgnn_env
+  pip install torch==1.13.1+cu117 --extra-index-url https://download.pytorch.org/whl/cu117
+  pip install dgl-cu117==0.5.2 -f https://data.dgl.ai/wheels/repo.html
+  pip install TxGNN pandas numpy scipy requests tqdm

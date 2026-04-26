@@ -1,0 +1,24 @@
+relation,display_relation,x_index,x_id,x_type,x_name,x_source,y_index,y_id,y_type,y_name,y_source
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,1494,154,gene/protein,ADRB2,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,7188,153,gene/protein,ADRB1,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,2472,150,gene/protein,ADRA2A,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,6739,7054,gene/protein,TH,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,3980,1621,gene/protein,DBH,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,12489,6530,gene/protein,SLC6A2,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,651,5566,gene/protein,PRKACA,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,389,1385,gene/protein,CREB1,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,729,6774,gene/protein,STAT3,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,2429,596,gene/protein,BCL2,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,25,4609,gene/protein,MYC,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,749,7422,gene/protein,VEGFA,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,3474,4318,gene/protein,MMP9,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,7764,29126,gene/protein,CD274,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,4579,50943,gene/protein,FOXP3,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,2889,7040,gene/protein,TGFB1,NCBI
+disease_protein,associated with,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,1151,4790,gene/protein,NFKB1,NCBI
+disease_phenotype_positive,phenotype present,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,26183,31377,effect/phenotype,Abnormal cell proliferation,HPO
+disease_phenotype_positive,phenotype present,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,3279,10978,effect/phenotype,Abnormality of immune system physiology,NCBI
+disease_phenotype_positive,phenotype present,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic,25597,2270,effect/phenotype,Abnormality of the autonomic nervous system,HPO
+indication,indication,14196,DB00571,drug,propranolol,DrugBank,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic
+indication,indication,14308,DB01136,drug,carvedilol,DrugBank,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic
+indication,indication,15466,DB00819,drug,atenolol,DrugBank,129372,PSEUDO:sympathetic_adrenergic_tme,disease,sympathetic adrenergic TME,curated_synthetic

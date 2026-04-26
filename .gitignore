@@ -1,0 +1,23 @@
+# Large KG data files — download via data/DOWNLOAD_INSTRUCTIONS.txt
+data/kg.csv
+data/kg_raw.csv
+data/edges.csv
+data/kg_directed.csv
+data/node.csv
+data/complex_disease_42/
+data/lincs_profiles/
+
+# Model checkpoints
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Logs
+*.log
+results/pretrain_log.txt
+.DS_Store
+.claude/

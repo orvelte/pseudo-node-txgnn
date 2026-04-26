@@ -1,0 +1,150 @@
+{
+  "kg_shape": [
+    8100498,
+    12
+  ],
+  "node_types": {
+    "biological_process": 28642,
+    "gene/protein": 27610,
+    "disease": 17080,
+    "effect/phenotype": 15311,
+    "anatomy": 14033,
+    "molecular_function": 11169,
+    "drug": 7957,
+    "cellular_component": 4176,
+    "pathway": 2516,
+    "exposure": 818
+  },
+  "relation_types": {
+    "anatomy_protein_present": 3036406,
+    "drug_drug": 2672628,
+    "protein_protein": 642150,
+    "disease_phenotype_positive": 300634,
+    "bioprocess_protein": 289610,
+    "cellcomp_protein": 166804,
+    "disease_protein": 160822,
+    "molfunc_protein": 139060,
+    "drug_effect": 129568,
+    "bioprocess_bioprocess": 105772,
+    "pathway_protein": 85292,
+    "disease_disease": 64388,
+    "contraindication": 61350,
+    "drug_protein": 51306,
+    "anatomy_protein_absent": 39774,
+    "phenotype_phenotype": 37472,
+    "anatomy_anatomy": 28064,
+    "molfunc_molfunc": 27148,
+    "indication": 18776,
+    "cellcomp_cellcomp": 9690,
+    "phenotype_protein": 6660,
+    "off-label use": 5136,
+    "pathway_pathway": 5070,
+    "exposure_disease": 4608,
+    "exposure_exposure": 4140,
+    "exposure_bioprocess": 3250,
+    "exposure_protein": 2424,
+    "disease_phenotype_negative": 2386,
+    "exposure_molfunc": 90,
+    "exposure_cellcomp": 20
+  },
+  "found_target_genes": [
+    {
+      "x_id": "4609",
+      "x_name": "MYC",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "1385",
+      "x_name": "CREB1",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "5566",
+      "x_name": "PRKACA",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "6774",
+      "x_name": "STAT3",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "7422",
+      "x_name": "VEGFA",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "154",
+      "x_name": "ADRB2",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "148",
+      "x_name": "ADRA1A",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "596",
+      "x_name": "BCL2",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "150",
+      "x_name": "ADRA2A",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "7040",
+      "x_name": "TGFB1",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "4318",
+      "x_name": "MMP9",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "1621",
+      "x_name": "DBH",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "50943",
+      "x_name": "FOXP3",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "7054",
+      "x_name": "TH",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "153",
+      "x_name": "ADRB1",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "29126",
+      "x_name": "CD274",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "5788",
+      "x_name": "PTPRC",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "155",
+      "x_name": "ADRB3",
+      "x_type": "gene/protein"
+    },
+    {
+      "x_id": "6530",
+      "x_name": "SLC6A2",
+      "x_type": "gene/protein"
+    }
+  ],
+  "missing_target_genes": [
+    "PRKA"
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "drug_id": "DB00571",
+    "disease_id": "PSEUDO:sympathetic_adrenergic_tme",
+    "label": 1,
+    "split": "train"
+  },
+  {
+    "drug_id": "DB01136",
+    "disease_id": "PSEUDO:sympathetic_adrenergic_tme",
+    "label": 1,
+    "split": "train"
+  },
+  {
+    "drug_id": "DB00819",
+    "disease_id": "PSEUDO:sympathetic_adrenergic_tme",
+    "label": 1,
+    "split": "train"
+  }
+]
