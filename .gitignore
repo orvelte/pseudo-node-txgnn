@@ -18,6 +18,5 @@ __pycache__/
 
 # Logs
 *.log
-results/pretrain_log.txt
 .DS_Store
 .claude/
